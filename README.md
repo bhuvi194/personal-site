@@ -1,6 +1,6 @@
 # Personal Site
 
-A personal portfolio website inspired by the structure and feel of [falakgala.dev](https://falakgala.dev/).
+A personal portfolio website.
 
 ## Status
 
